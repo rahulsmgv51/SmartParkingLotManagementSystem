@@ -1,4 +1,4 @@
-# 🚗 Parking Lot Management System
+# Parking Lot Management System
 
 A production-style Parking Lot Management System built using Spring Boot, PostgreSQL, Redis, Kafka, JPA, and Design Patterns.
 
